@@ -25,7 +25,6 @@ Develop a browser-based KYC (Know Your Customer) module that validates the PAN a
     - total KYC failed due to PAN, 
     - total KYC failed due to Bank Account, 
     - total KYC failed due to PAN and Bank Account.
-9. Setup pipelines and use Terraform for infra and easy deployment.
 
 ## Deliverables:
 1. Source code of the KYC module.
