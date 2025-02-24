@@ -43,4 +43,4 @@ Develop a browser-based KYC (Know Your Customer) module that validates the PAN a
 3. For API Keys, please refer to this video on signing up for Setu Bridge Portal: https://www.loom.com/share/3f1d6e15f2364742a45d775632ed0c4c?sid=49596d62-21cb-42e8-a9bc-632db60e6008 and configure your products and get the API keys.
 
 ## Submission:
-Publish the completed work on GitHub, working deployment URL and share the repository link once done.
+Publish the completed work on GitHub, working demo video link and share the repository link once done.
