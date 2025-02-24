@@ -1,7 +1,7 @@
 # Assignment: Build a micro KYC Module
 
 ## Assignment Overview:
-You are tasked with creating a solution that involves consuming multiple Setu APIs, and building a new KYC Module that will be accessed via a Browser (phone or desktop), and packaging the application using Docker for easy deployment. The assignment will require proficiency in React for frontend development, Python for backend, Docker for containerization, and version controlling using Git and deployment via Terraform and Pipelines.
+You are tasked with creating a solution that involves consuming multiple Setu APIs, and building a new KYC Module that will be accessed via a Browser (phone or desktop), and packaging the application using Docker for easy deployment. The assignment will require proficiency in React for frontend development, Python for backend.
 
 ## Objective:
 Develop a browser-based KYC (Know Your Customer) module that validates the PAN and Bank Account of a customer.
@@ -18,7 +18,7 @@ Develop a browser-based KYC (Know Your Customer) module that validates the PAN a
 5. Provide a button to retry the verification flow at any point.
 6. Capture the data for each user and store in a database.
 7. Expose Admin flows to the admin to view the data of all users and view the analytics 
-8. Analytics can be list/view of (you are free to choose the how you present the information)
+8. Analytics can be list/view of (you are free to choose how you present the information)
     - total KYC attempted, 
     - total KYC successful, 
     - total KYC failed, 
@@ -36,8 +36,6 @@ Develop a browser-based KYC (Know Your Customer) module that validates the PAN a
 1. React
 2. Python
 3. Docker
-4. Terraform and Pipelines
-5. Any preferred mode of deployment on AWS/GCP etc. 
 
 ## Additional Details:
 1. PAN API: https://docs.setu.co/data/pan/quickstart
